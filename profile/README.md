@@ -29,3 +29,12 @@ With **Lookin**, users can easily find the perfect hairstyle for their face shap
 
 # Project Documents:
 - [Project Plan](https://docs.google.com/document/d/1ipbvaAsDLPsa8rqPz5sVMGLduH_iPsrmaVOPlWUekHU/edit?usp=sharing)
+
+# Contributors
+
+<a href="https://github.com/attmhd"><img src="https://github.com/attmhd.png" width="50" height="50" alt="Muhammad Attan"></a>
+<a href="https://github.com/nyoman-purbawa"><img src="https://github.com/nyoman-purbawa.png" width="50" height="50" alt="Muhammad Attan"></a>
+<a href="https://github.com/devazee"><img src="https://github.com/devazee.png" width="50" height="50" alt="Muhammad Attan"></a>
+<a href="https://github.com/D4rkWizard"><img src="https://github.com/D4rkWizard.png" width="50" height="50" alt="Muhammad Attan">
+</a><a href="https://github.com/beladesca"><img src="https://github.com/beladesca.png" width="50" height="50" alt="Muhammad Attan"></a>
+<a href="https://github.com/Fadhlan0309"><img src="https://github.com/Fadhlan0309.png" width="50" height="50" alt="Muhammad Attan"></a>
